@@ -1,3 +1,3 @@
 Thank you for buying my method! Hopefully y'all can make good use of it! :)
 
-[1] Right-click rbxLaunch.html & edit "//672249327" to your place ID. KEEP THE "//" !
+[1] Right-click rbxLaunch.html & edit "//672249327" to your place ID of your roblox game. KEEP THE "//" !
