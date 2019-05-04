@@ -6,5 +6,6 @@ sudo add-apt-repository ppa:kdenlive/kdenlive-stable
 sudo apt-get install kdenlive
 sudo apt install kde-runtime
 sudo snap install obs-studio
+sudo apt install ffmpeg
 sudo snap install chromium
 echo Done..
