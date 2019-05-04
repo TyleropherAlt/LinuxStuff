@@ -8,4 +8,7 @@ sudo apt install kde-runtime
 sudo snap install obs-studio
 sudo apt install ffmpeg
 sudo snap install chromium
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo apt install nvidia-driver-418 nvidia-settings
 echo Done..
